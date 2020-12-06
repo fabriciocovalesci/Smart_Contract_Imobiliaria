@@ -38,7 +38,6 @@ Para testes localmente foi utilizado o [Ganache](https://www.trufflesuite.com/ga
 
 
 - Depois de executar o ganache é necessário compilar e migrar o projeto, para isto segue os seguintes comandos: <br>
-
 :arrow_right: `tuffle compile` <br>
 :arrow_right: `tuffle migrate` <br>
 
