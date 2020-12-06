@@ -31,13 +31,13 @@ Para testes localmente foi utilizado o [Ganache](https://www.trufflesuite.com/ga
 - Baixar o **Ganache** <br>
 :arrow_right: [Ganache](https://www.trufflesuite.com/ganache) <br>
 
-- Após a instalação do **ganache** é necessário executar o mesmo 
+- Após a instalação do **ganache** é necessário executar o mesmo <br>
 :arrow_right: `./ganache-2.5.4-linux-x86_64.AppImage` <br>
 
 - IMPORTANTE :interrobang:  A versão minima do **Ganache** precisa ser a **v2.5.4**
 
 
-Depois de executar o ganache é necessário compilar e migrar o projeto, para isto segue os seguintes comandos:
+- Depois de executar o ganache é necessário compilar e migrar o projeto, para isto segue os seguintes comandos: <br>
 
 :arrow_right: `tuffle compile` <br>
 :arrow_right: `tuffle migrate` <br>
