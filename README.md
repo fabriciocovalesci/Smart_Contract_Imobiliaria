@@ -28,16 +28,21 @@ Para testes localmente foi utilizado o [Ganache](https://www.trufflesuite.com/ga
 - Acessar a pasta Smart_Contract_Imobiliaria <br>
 :arrow_right: `cd Smart_Contract_Imobiliaria` <br>
 
+- Instalar o Truffle, será o ambiente de desenvolvimento. <br>
+:arrow_right:  `npm install truffle -g` <br>
+
 - Baixar o **Ganache** <br>
 :arrow_right: [Ganache](https://www.trufflesuite.com/ganache) <br>
 
 - Após a instalação do **ganache** é necessário executar o mesmo <br>
+:arrow_right: `chmod +x ganache-2.5.4-linux-x86_64.AppImage` <br>
 :arrow_right: `./ganache-2.5.4-linux-x86_64.AppImage` <br>
 
 - IMPORTANTE :interrobang:  A versão minima do **Ganache** precisa ser a **v2.5.4**
 
 
 - Depois de executar o ganache é necessário compilar e migrar o projeto, para isto segue os seguintes comandos: <br>
+- IMPORTANTE :interrobang: **O Ganache já precisa estar rodando para que estes comandos a seguir executem !!** <br>
 :arrow_right: `tuffle compile` <br>
 :arrow_right: `tuffle migrate` <br>
 
