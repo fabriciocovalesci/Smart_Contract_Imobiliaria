@@ -46,9 +46,6 @@ Para testes localmente foi utilizado o [Ganache](https://www.trufflesuite.com/ga
 :arrow_right: `tuffle compile` <br>
 :arrow_right: `tuffle migrate` <br>
 
-Agora é preciso copiar o **address_contract** e adicionar no projeto de [front end](https://github.com/fabriciocovalesci/Imobiliaria-frontend-Svelte), para que a aplicação encontre o contrato e seus metodos.
-
-
 
 ## Arquitetura do Projeto
 
