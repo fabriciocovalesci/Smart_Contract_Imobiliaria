@@ -9,7 +9,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-v0.4.25-blue) 
 
 
-Smart contract de uma imobiliária, utilizado em conjunto com [Front end](https://github.com/fabriciocovalesci/Imobiliaria-frontend-Svelte).
+Smart contract de uma imobiliária, utilizado em conjunto com [Front end](https://github.com/fabriciocovalesci/Imobiliaria-frontend-Svelte) e um [Back end](https://github.com/fabriciocovalesci/API_Imobiliaria).
 
 Neste *smart contract* foi desenvolvido toda lógica para efetuar o pagamento de um imóvel na compra, venda ou aluguel.
 
